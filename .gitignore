@@ -39,3 +39,4 @@ git push -u origin main
 cd ..
 git clone https://github.com/yourusername/my-first-project.git
 cd my-first-project
+important.txt
