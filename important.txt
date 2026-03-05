@@ -1,1 +1,2 @@
 1)in gen jis branch pr local machine pr wokr krte hai wo ->master hoti hai
+sthis is the new git of mine and now i do wants to change the content in others repo
